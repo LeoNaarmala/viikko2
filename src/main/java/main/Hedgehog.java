@@ -11,7 +11,7 @@ public class Hedgehog {
     }
     public void speak(String teksti) {
 
-        System.out.println(name+teksti);
+        System.out.println(name+":"+teksti);
         
     }
 }
